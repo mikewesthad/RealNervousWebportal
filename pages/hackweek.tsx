@@ -13,7 +13,7 @@ const Home: NextPage = () => {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>Welcome to Hackweek 2023</h1>
+        <h1 className={styles.title}>Hackweek 2024</h1>
       </main>
 
       <footer className={styles.footer}>
