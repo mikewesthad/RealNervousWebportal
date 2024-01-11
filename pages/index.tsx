@@ -65,6 +65,13 @@ const Home: NextPage = () => {
           </span>
           Replit
         </a>
+        <a
+          href="/hackweek"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          See hackweek project
+        </a>
       </footer>
     </div>
   )
