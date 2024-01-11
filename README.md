@@ -1,4 +1,4 @@
-## Getting Started
+# Getting Started
 
 Hit the run button to start the development server.
 
