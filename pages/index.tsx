@@ -7,7 +7,7 @@ const Home: NextPage = () => {
   return (
     <div className={styles.container}>
       <Head>
-        <titl>Developer Con</titl>
+        <title>Developer Con</title>
         <meta
           name="description"
           content="Join us at Developer Con. Connect, learn, and explore the future of coding!"
